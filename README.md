@@ -1,5 +1,6 @@
 # teste
 
-# Some test samples to display information of Time and Day of the Week in a browser using an API.
+# This is a simple test code to show the results of an API in a Browser and to request some information to the user and display the answers of this request 
 
-# Test sample to request e show information using a java class.
+
+
